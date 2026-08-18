@@ -1,0 +1,8 @@
+name: TERIE-QuickShulker
+version: '${version}'
+main: team.terie.quickshulker.QuickShulkerPlugin
+api-version: '1.21.10'
+author: Team TERIE (BACKGWA)
+description: 팀 테리에, 빠른 셜커상자 플러그인
+libraries:
+  - org.jetbrains.kotlin:kotlin-stdlib:2.4.10
